@@ -1,4 +1,5 @@
 {
+  "homepage": "http://hbkxmqdjn.github.io/drag-n-drop-column",
   "name": "drag-n-drop-column",
   "version": "0.1.0",
   "private": true,
@@ -10,8 +11,6 @@
     "react": "^16.13.1",
     "react-beautiful-dnd": "^13.0.0",
     "react-bootstrap": "^1.3.0",
-    "react-dnd": "^11.1.3",
-    "react-dnd-html5-backend": "^11.1.3",
     "react-dom": "^16.13.1",
     "react-draggable": "^4.4.3",
     "react-icons": "^3.10.0",
@@ -21,7 +20,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -39,6 +40,7 @@
     ]
   },
   "devDependencies": {
+    "gh-pages": "^3.1.0",
     "gulp": "^4.0.2"
   }
 }

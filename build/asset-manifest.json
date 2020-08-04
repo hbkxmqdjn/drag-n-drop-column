@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/drag-n-drop-column/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/drag-n-drop-column/static/js/main.92a05f8b.chunk.js",
+    "main.js.map": "/drag-n-drop-column/static/js/main.92a05f8b.chunk.js.map",
+    "runtime-main.js": "/drag-n-drop-column/static/js/runtime-main.74ad019b.js",
+    "runtime-main.js.map": "/drag-n-drop-column/static/js/runtime-main.74ad019b.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/drag-n-drop-column/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.90e05856.chunk.js": "/drag-n-drop-column/static/js/2.90e05856.chunk.js",
+    "static/js/2.90e05856.chunk.js.map": "/drag-n-drop-column/static/js/2.90e05856.chunk.js.map",
+    "index.html": "/drag-n-drop-column/index.html",
+    "precache-manifest.ef5f6ef629cde9532518881519d0ce31.js": "/drag-n-drop-column/precache-manifest.ef5f6ef629cde9532518881519d0ce31.js",
+    "service-worker.js": "/drag-n-drop-column/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/drag-n-drop-column/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.5ecd60fb.chunk.css.map": "/drag-n-drop-column/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.90e05856.chunk.js.LICENSE.txt": "/drag-n-drop-column/static/js/2.90e05856.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74ad019b.js",
+    "static/css/2.829c9cb5.chunk.css",
+    "static/js/2.90e05856.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.92a05f8b.chunk.js"
+  ]
+}
